@@ -1,0 +1,6 @@
+givemeanumber = input()
+for number in range(int(givemeanumber)):
+	print(number)
+
+
+
